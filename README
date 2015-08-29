@@ -1,0 +1,16 @@
+sshd
+
+This is the sshd module for managing SSHD on Linux mint Server.
+
+License
+-------
+Apache GNU 
+
+Contact
+-------
+miroslaw.niegowski@gmail.com 
+
+Support
+-------
+
+Please log tickets and issues at our [Projects site](http://github/trednu/sshd-puppet)
